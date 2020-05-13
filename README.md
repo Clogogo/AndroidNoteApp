@@ -16,11 +16,8 @@ Notepapp demonstrates the [CRUD](https://en.wikipedia.org/wiki/Create,_read,_upd
 
 - Retrieve and display list using recyclerview
 
-![insert and display list]( "insert")
 
 - Insert, Update and Delete note records from database
-
-![update and display list]("update_delete")
 
 
 **Note:** Follow [room-demo-repo][1] for best practices as `NoteApp` 
