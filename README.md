@@ -1,4 +1,4 @@
-# Note taking app with android Room library
+3# Note taking app with android Room library
 
 The Room library acts as an abstract layer for underlying SQLite database. 
 
@@ -17,9 +17,4 @@ Notepapp demonstrates the [CRUD](https://en.wikipedia.org/wiki/Create,_read,_upd
 - Retrieve and display list using recyclerview
 
 
-- Insert, Update and Delete note records from database
-
-
-**Note:** Follow [room-demo-repo][1] for best practices as `NoteApp` 
-
-
+- Insert, Update and Delete note records from database 
